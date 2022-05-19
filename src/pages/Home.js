@@ -35,7 +35,7 @@ const Home = () => {
                   return country;
                 } if (country.name.toLowerCase().includes(input.toLowerCase())) {
                   return country;
-                }
+                } return '';
               })
                 .map((country) => (
                   <div className="columns" key={country.id}>

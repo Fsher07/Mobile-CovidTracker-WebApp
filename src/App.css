@@ -4,6 +4,10 @@
   --darkpurple: rgb(107, 5, 107);
 }
 
+body {
+  background-color: var(--purple);
+}
+
 li {
   list-style: none;
 }
@@ -25,7 +29,7 @@ li {
   padding-left: 0.5rem;
 }
 
-.columns:active {
+.columns:focus {
   border: 1px solid var(--white);
 }
 
@@ -67,8 +71,7 @@ a {
 }
 
 nav {
-  background-color: var(--purple);
-  position: fixed;
+  background-color: var(--darkpurple);
   width: 100%;
 }
 
