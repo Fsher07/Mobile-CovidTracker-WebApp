@@ -1,18 +1,18 @@
 # Covid Tracker Mobile WebApp
 
-> In this project, foundations are laid for Bookstore website. React part of the app is created and set up routing using React Router.
+> In this project, built a mobile webapp to check numaric details of Covid-19 in countries. React part of the app is created and set up routing using React Router.
 
 ## Built With
 
--React-Redux
+-React&Redux
 
 ## Live Demo
 
-[Live Demo Link](https://github.com/Fsher07/Bookstore/)
+[Live Demo Link](https://dynamic-chebakia-6867a7.netlify.app)
 
 ## How to Setup
 
-> You can simply clone or download [this repository](https://github.com/Fsher07/Bookstore.git), and use your favorite browser or code editor to run this program.
+> You can simply clone or download [this repository](https://github.com/Fsher07/Mobile-CovidTracker-WebApp), and use your favorite browser or code editor to run this program.
 
 -To run the project locally, clone the project, and follow the commands below in order:
 
@@ -33,17 +33,18 @@ The page will reload when you make changes.\
 
 - GitHub: [Salim](https://github.com/Fsher07)
 - Twitter: [Salim](https://twitter.com/furkansalimhdr1)
-- LinkedIn: [Salim](https://www.linkedin.com/in/furkan-salim-h%C4%B1d%C4%B1r-3441ab1b2/)
+- LinkedIn: [Salim](https://www.linkedin.com/in/fsalimhidir/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Fsher07/Bookstore/issues).
+Feel free to check the [issues page](https://github.com/Fsher07/Mobile-CovidTracker-WebApp/issues).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
 ## Acknowlodgement
+Original design idea by [Nelson Sakwa on Behance](https://www.behance.net/sakwadesignstudio).
 Microverse
