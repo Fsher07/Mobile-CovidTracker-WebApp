@@ -9,6 +9,7 @@
 ## Live Demo
 
 [Live Demo Link](https://dynamic-chebakia-6867a7.netlify.app)
+[Video Link](https://www.loom.com/share/0880ba007ac141d89121322319a916c4)
 
 ## How to Setup
 
