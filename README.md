@@ -1,73 +1,51 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Covid Tracker Mobile WebApp
 
-# Project Name
-
-> Description the project.
-
+> In this project, built a mobile webapp to check numaric details of Covid-19 in countries. React part of the app is created and set up routing using React Router.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+-React&Redux
 
-## Live Demo (if available)
+## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+- [Live Demo Link](https://dynamic-chebakia-6867a7.netlify.app)
+- [Video Link](https://www.loom.com/share/0880ba007ac141d89121322319a916c4)
 
+## How to Setup
 
-## Getting Started
+> You can simply clone or download [this repository](https://github.com/Fsher07/Mobile-CovidTracker-WebApp), and use your favorite browser or code editor to run this program.
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+-To run the project locally, clone the project, and follow the commands below in order:
 
+```
+npm install
+```
+```
+npm start
+```
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-To get a local copy up and running follow these simple example steps.
+The page will reload when you make changes.\
 
-### Prerequisites
+## Author
 
-### Setup
+👤 **Furkan Salim Hıdır**
 
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [Salim](https://github.com/Fsher07)
+- Twitter: [Salim](https://twitter.com/furkansalimhdr1)
+- LinkedIn: [Salim](https://www.linkedin.com/in/fsalimhidir/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Fsher07/Mobile-CovidTracker-WebApp/issues).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
+## Acknowlodgement
+Original design idea by [Nelson Sakwa on Behance](https://www.behance.net/sakwadesignstudio).
+Microverse
